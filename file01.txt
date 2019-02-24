@@ -1,0 +1,3 @@
+Hello,
+The weather looks nice today.
+It's time to go for a bike tour.
